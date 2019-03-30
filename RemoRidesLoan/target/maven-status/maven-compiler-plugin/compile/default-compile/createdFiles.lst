@@ -1,0 +1,8 @@
+com\dbs\remorides\model\CustomerDetails.class
+com\dbs\remorides\controller\RemoRIdesController.class
+com\dbs\remorides\model\RemoRidesRequestModel.class
+com\dbs\remorides\model\RemoRidesResponseModel.class
+com\dbs\remorides\RemoRides.class
+com\dbs\remorides\App.class
+com\dbs\remorides\service\RemoRidesService.class
+com\dbs\remorides\model\LoanRequest.class
